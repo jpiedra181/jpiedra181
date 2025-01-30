@@ -34,12 +34,24 @@ Through my repositories, you can see my progress, my work, and my growing skill 
 
 <br>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jpiedra181/jpiedra181/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpiedra181&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpiedra181&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 ## Contact Me 📫
 
 If you have questions, suggestions, or just want to chat about web development, don't hesitate to get in touch with me through:
 
-[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ferrancolllopez@gmail.com)
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=javierpiedraiglesias%40gmail.com&labelColor=black&color=%23EA4335)](mailto:javierpiedraiglesias@gmail.com)
 
 
