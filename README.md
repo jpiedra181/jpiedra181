@@ -1,7 +1,7 @@
 # Hello, I'm Javier Piedra 👨🏻‍💻
 ### FrontEnd Developer 🚀
 
-![https://github.com/Ferran226](FerranCodeIngles.png)
+![https://github.com/jpiedra181](javierpiedra_img.jpg)
 
 👋 Hey there! I’m a geomatics and topography graduate who traded maps for markup and coordinates for code. Now diving headfirst into frontend development, learning HTML, CSS, JavaScript, and beyond.
 
