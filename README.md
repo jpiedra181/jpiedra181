@@ -34,10 +34,6 @@ Through my repositories, you can see my progress, my work, and my growing skill 
 
 <br>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jpiedra181/jpiedra181/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
